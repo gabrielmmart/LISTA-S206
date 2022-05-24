@@ -1,0 +1,23 @@
+{
+  "name": "lista",
+  "version": "1.0.0",
+  "description": "Programa com casos de teste para o site NOIYS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmmart/LISTA-S206.git"
+  },
+  "author": "Gabriel Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielmmart/LISTA-S206/issues"
+  },
+  "homepage": "https://github.com/gabrielmmart/LISTA-S206#readme",
+  "keywords": [],
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
